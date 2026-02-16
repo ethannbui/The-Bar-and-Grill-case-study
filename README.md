@@ -1,6 +1,6 @@
 # The Bar & Grill Scalability Case Study (2025)
 
-A consulting-style analysis of The Bar & Grill, a fictional multi-unit restaurant brand, focused on making operations and finance more scalable as the company expands. The case highlights common challenges in growing restaurant organizations and asks for recommendations across financial, operational, technological, and legal areas.
+As a participant of the Restaurant365 competition, I analyzed a fictional fast-growing restaurant group (The Bar & Grill) and developed practical recommendations to scale operations and financial processes, covering finance, operations, technology, and legal considerations.
 
 **Business Context**
 
